@@ -1,7 +1,7 @@
 package v1
 
 import (
-	"bitget/internal/common"
+	"github.com/liam-z/bitgate/internal/common"
 )
 
 type MixMarketClient struct {

@@ -1,9 +1,9 @@
 package test
 
 import (
-	"bitget/internal/model"
-	"bitget/pkg/client/ws"
 	"fmt"
+	"github.com/liam-z/bitgate/internal/model"
+	"github.com/liam-z/bitgate/pkg/client/ws"
 	"testing"
 )
 

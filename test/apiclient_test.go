@@ -1,10 +1,10 @@
 package test
 
 import (
-	"bitget/internal"
-	"bitget/pkg/client"
-	"bitget/pkg/client/v1"
 	"fmt"
+	"github.com/liam-z/bitgate/internal"
+	"github.com/liam-z/bitgate/pkg/client"
+	"github.com/liam-z/bitgate/pkg/client/v1"
 	"testing"
 )
 

@@ -1,9 +1,9 @@
 package internal
 
 import (
-	"bitget/constants"
 	"encoding/json"
 	"errors"
+	"github.com/liam-z/bitgate/constants"
 	"net/http"
 	"sort"
 	"strconv"

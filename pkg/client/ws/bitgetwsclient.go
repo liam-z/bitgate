@@ -1,10 +1,10 @@
 package ws
 
 import (
-	"bitget/constants"
-	"bitget/internal/common"
-	"bitget/internal/model"
-	"bitget/logging/applogger"
+	"github.com/liam-z/bitgate/constants"
+	"github.com/liam-z/bitgate/internal/common"
+	"github.com/liam-z/bitgate/internal/model"
+	"github.com/liam-z/bitgate/logging/applogger"
 	"strings"
 )
 

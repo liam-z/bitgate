@@ -19,9 +19,9 @@ git clone git@github.com:BitgetLimited/v3-bitget-api-sdk.git
 package test
 
 import (
-  "bitget/internal"
-  "bitget/pkg/client"
-  "bitget/pkg/client/v1"
+  "github.com/liam-z/bitgate/internal"
+  "github.com/liam-z/bitgate/pkg/client"
+  "github.com/liam-z/bitgate/pkg/client/v1"
   "fmt"
   "testing"
 )
@@ -95,8 +95,8 @@ func Test_get_with_params(t *testing.T) {
 package test
 
 import (
-  "bitget/internal/model"
-  "bitget/pkg/client/ws"
+  "github.com/liam-z/bitgate/internal/model"
+  "github.com/liam-z/bitgate/pkg/client/ws"
   "fmt"
   "testing"
 )

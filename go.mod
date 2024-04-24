@@ -1,4 +1,4 @@
-module bitget
+module  github.com/liam-z/bitgate
 
 go 1.17
 

@@ -1,13 +1,13 @@
 package common
 
 import (
-	"bitget/config"
-	"bitget/constants"
-	"bitget/internal"
-	"bitget/internal/model"
-	"bitget/logging/applogger"
 	"fmt"
 	"github.com/gorilla/websocket"
+	"github.com/liam-z/bitgate/config"
+	"github.com/liam-z/bitgate/constants"
+	"github.com/liam-z/bitgate/internal"
+	"github.com/liam-z/bitgate/internal/model"
+	"github.com/liam-z/bitgate/logging/applogger"
 	"github.com/robfig/cron"
 	"sync"
 	"time"

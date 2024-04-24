@@ -1,9 +1,9 @@
 package common
 
 import (
-	"bitget/config"
-	"bitget/constants"
-	"bitget/internal"
+	"github.com/liam-z/bitgate/config"
+	"github.com/liam-z/bitgate/constants"
+	"github.com/liam-z/bitgate/internal"
 	"io/ioutil"
 	"net/http"
 	"strings"

@@ -1,8 +1,8 @@
 package v2
 
 import (
-	"bitget/internal"
-	"bitget/internal/common"
+	"github.com/liam-z/bitgate/internal"
+	"github.com/liam-z/bitgate/internal/common"
 )
 
 type MixAccountClient struct {
